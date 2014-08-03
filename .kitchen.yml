@@ -13,3 +13,7 @@ suites:
   - name: default
     run_list:
     attributes:
+  - name: sample-erlang
+    run_list:
+      - recipe[sample-erlang]
+    attributes:

@@ -5,3 +5,4 @@
 /cookbooks/
 .kitchen/
 .kitchen.local.yml
+/Berksfile.lock
